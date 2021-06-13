@@ -1,59 +1,73 @@
 # Mentorship tree
 
-## Prabhakar
-- Chandan
-- Tarique
-- Akhilesh
-- Aijaj
-
-## Chandan
-- Akash
-- Yousuf
-
-## Tarique
-- Deepak Patel
-- Vishal Pandey
-
-## Akhilesh
-- Deepak Sharma
-- Subham
-
-## Subham
-- Khalil
-- Navid
-
-## Ramesh
-- Bhaskar
-- Umesh
-
-## Vivek Sankara
-- Ajith
-
-## Ajith
-- Bijendra
+## Anand/Prabhakar
 - Vishal
+- Siddik
+- Subhash
+- Shubhadip
+- Parmeshwar
+- Anmol
+- Sampath
+- Satpal
+- Rajkumar
 
-## Bhaskar
-- Riyaz
-- Santosh
+## Shubhadip
+- Ranjan
+- Suraj kumar
 
-## Deepak Sharma
-- Rohit Sharma
-- Roshan
+## Parmeshwar
+- Suraj Sah
 
------- Foundation Bootcamp ------
+## Vishal
+- Ankit 
+- Harshal
+
+## Siddik
+- Shubham kulkarni
+- Dhruv
+
+## Sampath
+- Rahul Sarayam
+
+## Anmol
+- Tushar
+
+## Subhash
+- Pravin
+- Hemant
+
+## Satpal
+- Nasir
+
+## Rajkumar
+    - Akshay 
+
+## Suraj Shah
+- Pawan
+
+## Ankit
+- Aarif
+- Saikiran
+
+## Praveen
+- Abhay
+
+## Dhruv
+- Rajesh Anuragi
+
+## Tushar
+- Amol
+
+## Ranjan
+- Akshit
+
+## Hemant
+- Vikas 
 
 ## Shabid
-- Rajeshwar
-- Vishal M.
-- Siddik
+- Priyanshu
+- Dipesh
 
-## Karthik
-- Alok
-- Suraj
-- Baljeet
-
-## Sonu
-- Ranjan
-- paritosh
-- subdeep
+## Riyaz
+- Anurag
+- Prathmesh
