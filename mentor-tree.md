@@ -1,56 +1,58 @@
 # Mentorship tree
 
-## Shabid
+## Anand/Pratik
+- Sajjad
+- Akshay
+- Vikash
 - Satpal
-- Parmeshwar
-- Tushar
-- Rajkumar
 
-## Riyaz
-- Vishal
-- Sampth
-- Dipesh
-- Hemant
+**Note:-** All nodejs student's have to come for the stand up (if stand-up will not happen then you have to share your agenda in the Javascript+Nodejs group)
 
-## Somesh
-- Subhash
-- Subhadip
-- ShreeKumar
+## Sajjad Mazhar
+- Prathmesh
+- Akshit
+- Suraj
 
-## Raju
-- Siddik
-- Suraj Shah
-- Ankit
-
-## Deepak
-- Pravin
-- Navid
-- Ranjan
-
-## Rakesh
-- Amarpal
-- Umesh
-
-## Parmeshwar
-- Amol 
+## Akshay
+- Bhupendra
+- Rajesh
+## Vikash Kumar
+- Nasir
+- Amol
 - Anurag
 
-## Vishal
-- Nasir
-- Prathmesh
+## Amol
+- Jay Prakash
+- Vicky
 
-## Subhas
-- Harshal
-- priyanshu
+## Satpal
+- Suryashen
 
-## Subhdip
-- Suraj Kumar
+## Prathmesh
+- Amit
+- Satish
+## Nasir
+- Pradeep 
+- Roshan
 
-## Siddik
-- Akshay 
+## Bhupendra
+- Adarsh
+- Praveen Vaishnav
 
-## Suraj Shah
-- Pawan
+## Akshit
+- Abhimanyu
 
-## Sampath
-- Satyam
+## Suraj
+- Mahendra
+
+## Rajesh
+- Raja Kumar
+- Aniket 
+## Anurag
+- Akash Goupale
+
+## Satish
+- Bhumesh
+
+## Suryashen
+- Praveen Kumar
