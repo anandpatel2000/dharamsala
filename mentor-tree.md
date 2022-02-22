@@ -1,41 +1,28 @@
 # Mentorship tree
 
 ## Anand/Pratik
-- Sajjad
-- Akshay
-- Vikash
-- Satpal
+- Prathmesh
+- Nasir
+- Akshit
+- Bhupendra
+- Pathak
 
 **Note:-** All nodejs student's have to come for the stand up (if stand-up will not happen then you have to share your agenda in the Javascript+Nodejs group)
 
 ## Sajjad Mazhar
-- Prathmesh
-- Akshit
-- Suraj
-
-## Akshay
-- Bhupendra
-- Rajesh
-
-## Vikash Kumar
-- Nasir
-- Amol
-- Anurag
-
-## Amol
-- Jay Prakash
-- Vicky
-
-## Satpal
+- Jay
+- Pradeep
 - Suryashen
 
-## Prathmesh
+## Vikash Kumar
 - Amit
 - Satish
+- Praveen t&p
 
-## Nasir
-- Pradeep 
-- Roshan
+## Prathmesh
+- Roshan 
+
+## Nasir 
 
 ## Bhupendra
 - Adarsh
